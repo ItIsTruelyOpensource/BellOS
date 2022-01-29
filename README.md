@@ -11,6 +11,9 @@ To make scalable technologies available to the entreprenures who want to manage 
 
 - [@manjotsk](https://www.github.com/manjotsk)
 
+## Mural
+
+ - [Public Mural](https://app.mural.co/t/truelyopensource0172/m/truelyopensource0172/1643411081999/7e98e2eb34071855a8009f670feb3fe4fd4b792e?sender=u36f4f027dcba29a398d04852)
 
 
 ## Acknowledgements
